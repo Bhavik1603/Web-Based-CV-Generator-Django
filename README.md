@@ -13,6 +13,6 @@ Welcome to the Django CV Generator, a web application that empowers users to eff
 To get started with the Django CV Generator on your local machine, follow these steps:
 
 1. Clone the repository:
-2. '''bash
-3. git clone https://github.com/your-username/django-cv-generator.git
-4. '''
+   ```bash
+   git clone https://github.com/your-username/django-cv-generator.git
+   ```
