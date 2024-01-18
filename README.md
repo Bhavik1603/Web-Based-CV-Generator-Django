@@ -24,13 +24,14 @@ To get started with the Django CV Generator on your local machine, follow these 
    ```bash
    pip install -r requirements.txt
    ```
-
-4. Run the development server:
+4. Download & Install wkhtmltopdf from [here](https://wkhtmltopdf.org/downloads.html)
+5. Add path to bin folder in System environmental variable.
+6. Run the development server:
    ```bash
    python manage.py runserver
    ```
    
-5. Open your browser and visit http://localhost:8000 to start creating your CV!
+7. Open your browser and visit http://localhost:8000 to start creating your CV!
 
 ##
 Feel free to customize this template based on the specific details and features of your project.
