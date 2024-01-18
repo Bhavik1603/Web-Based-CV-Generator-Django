@@ -14,5 +14,17 @@ To get started with the Django CV Generator on your local machine, follow these 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/django-cv-generator.git
+   git clone https://github.com/Bhavik1603/Web-Based-CV-Generator-Django
    ```
+2. Navigate to the project directory:
+   ```bash
+   cd Web-Based-CV-Generator-Django
+   ```
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+  ```
+4. Run the development server:
+```bash
+python manage.py runserver
+```
