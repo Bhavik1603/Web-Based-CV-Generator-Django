@@ -30,3 +30,4 @@ To get started with the Django CV Generator on your local machine, follow these 
    python manage.py runserver
    ```
    
+5. Open your browser and visit http://localhost:8000 to start creating your CV!
