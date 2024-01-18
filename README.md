@@ -24,6 +24,6 @@ To get started with the Django CV Generator on your local machine, follow these 
    ```bash
    pip install -r requirements.txt ```
 4. Run the development server:
-  ```bash
+   ```bash
   python manage.py runserver
   ```
